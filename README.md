@@ -63,3 +63,8 @@ User → Web App (React)
 
 
 ![CargoGuard AI2](https://github.com/user-attachments/assets/0117fd64-1cb1-4fcd-aab4-54b9a33cf1cd)
+
+
+
+
+![CargoGuard AI](https://github.com/user-attachments/assets/0b6f3be7-f52c-4bce-9495-61fe104f20e0)
