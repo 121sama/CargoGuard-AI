@@ -1,0 +1,7 @@
+{
+  "name": "CargoGuard AI",
+  "description": "Advanced AI-powered cargo inspection and threat detection system for customs and border security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
