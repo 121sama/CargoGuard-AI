@@ -57,18 +57,9 @@ User → Web App (React)
 5. Risk score generated  
 6. Results shown with chatbot explanation  
 
----
+![CargoGuard AI](https://github.com/user-attachments/assets/bf1d69b4-c946-423d-8ea8-143870c52055)
 
-## 📸 Demo
 
-(Add screenshots here)
 
----
 
-## 🤝 Contributors
-Team ELEVATIA
-
----
-
-## 📜 License
-MIT License
+![CargoGuard AI2](https://github.com/user-attachments/assets/0117fd64-1cb1-4fcd-aab4-54b9a33cf1cd)
